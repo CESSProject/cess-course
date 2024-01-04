@@ -2,7 +2,7 @@
 
 ## Week 01
 
-- Episode 01: Introduction of CESS and its roadmap
+- **Episode 01**: Introduction of CESS and its roadmap
     - Course Logistics
     - What is CESS? CESS in Summary
     - Platform Architecture
@@ -12,7 +12,7 @@
     - Development Roadmap
     - Try Out CESS
 
-- Episode 02: Introduction to CESS Technical Architecture
+- **Episode 02**: Introduction to CESS Technical Architecture
     - Node Roles
 
 - Assignment
@@ -20,7 +20,7 @@
 
 ## Week 02
 
-- Episode 03: Community Members & Users
+- **Episode 03**: Community Members & Users
     - Five types of user roles in CESS ecosystem
     - Community Member: Ambassador Program
     - Community Member: Creating a CESS Account
@@ -29,7 +29,7 @@
     - User: DeShare
     - User: Substats
 
-- Episode 04: dApp Development using ink! Smart Contract
+- **Episode 04**: dApp Development using ink! Smart Contract
     - Describe 3 types of development on CESS
         1. Interacting with CESS using DeOSS Api and SDKs.
         Difficulty: ★★
@@ -51,7 +51,7 @@
 
 ## Week 03
 
-- Episode 05: dApp Development using Solidity Smart Contract
+- **Episode 05**: dApp Development using Solidity Smart Contract
     - smart contract: Solidity
         - Substrate-EVM address Conversion
         - What is solidity contract
@@ -62,7 +62,7 @@
     - Commonly used libraries on smart contract development
     - PoE dApp (Solidity) tutorial
 
-- Episode 06: Using CESS API and Building Custom Pallets
+- **Episode 06**: Using CESS API and Building Custom Pallets
     - DeOSS
         - What is DeOSS, DeOSS gateway
         - Workflow of using DeOSS
@@ -83,8 +83,8 @@
 
 ## Week 04
 
-- Episode 07: Running a storage miner
-- Episode 08: Running a consensus miner
+- **Episode 07**: Running a storage miner
+- **Episode 08**: Running a consensus miner
 - Assignment
     - Survey for students who are interested in running storage or consensus miner nodes
     - Work on the team project
@@ -103,7 +103,7 @@ Continue working on the team project
 
 - CESS evaluate team submissions, pick 3-5 teams, and invite them to share.
 
-- Graduation ceremony. NFTs are issued for those completing the course.
+- **Graduation Ceremony (Real-time)**: NFTs are issued for those completing the course.
 
 # Getting Help & Office Hours
 
