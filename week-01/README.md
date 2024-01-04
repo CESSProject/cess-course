@@ -1,3 +1,3 @@
-- [Week 1: Episode 1: Introduction of CESS and Its Roadmap](./ep01.md)
-- [Week 1: Episode 2: Introduction to CESS Technical Architecture](./ep02.md)
-- [Week 1: Assignment](./assignment.md)
+- [Episode 1: Introduction of CESS and Its Roadmap](./ep01.md)
+- [Episode 2: Introduction to CESS Technical Architecture](./ep02.md)
+- [Assignment](./assignment.md)
