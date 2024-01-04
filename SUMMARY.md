@@ -7,3 +7,6 @@
   * [Episode 2](week-01/ep02.md)
   * [Assignment](week-01/assignment.md)
 * [2️⃣ Week 2](week-02/README.md)
+  * [Episode 3](week-02/ep03.md)
+  * [Episode 4](week-02/ep04.md)
+  * [Assignment](week-02/assignment.md)
