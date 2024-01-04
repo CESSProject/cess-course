@@ -1,0 +1,4 @@
+- [Episode 5: Smart Contract Development using Solidity](./ep05.md)
+- [Episode 6a: Distribute NFTs using CESS chain in ink!](./ep06a.md)
+- [Episode 6b: Develop Your Own Pallets](./ep06b.md)
+- [Assignment](./assignment.md)
