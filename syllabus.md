@@ -41,9 +41,9 @@
         - What is ink! smart contract
         - Walkthrough a simple ink! smart contract structure
         - Demonstrate how to deploy the ink! smart contract on CESS
-    - Interacting with ink! smart contract with [use-ink](https://use.ink/frontend/overview/#useink)
-        - A simple demonstration of frontend and use-ink (refer to [this section of the doc](https://docs.cess.cloud/core/developer/tutorials/poe-ink#front-end))
-    - Go over [NFT marketplace example](https://docs.cess.cloud/core/developer/tutorials/nft-marketplace)
+    - Interacting with ink! smart contract with [use-ink](https://use.ink/frontend/overview/#useink) library
+        - A simple demonstration of frontend and use-ink
+    - Demo: NFT marketplace example
 
 - Assignment
     - Individual Assignment 02
@@ -53,28 +53,28 @@
 
 - Episode 05: dApp Development using Solidity Smart Contract
     - smart contract: Solidity
-        - Explain the [Substrate-EVM addr conversion](https://docs.cess.cloud/core/developer/guides/substrate-evm)
+        - Substrate-EVM address Conversion
         - What is solidity contract
         - Fund your evm deployment account
         - Walkthrough a simple solidity contract and deploy the smart contract on CESS
-    - Interacting with solidity contract with [ethers.js](https://docs.ethers.org/v6/) [wagmi](https://wagmi.sh/), [viem](https://viem.sh/)
+    - Interacting with solidity contract with [ethers.js](https://docs.ethers.org/v6/), [wagmi](https://wagmi.sh/), [viem](https://viem.sh/)
     - Comparison of smart contract dev in ink! and solidity
-    - Go over some [commonly used libraries on smart contract dev](https://docs.cess.cloud/core/developer/guides/common-libs).
-    - Go over the [PoE dApp (Solidity) tutorial](https://docs.cess.cloud/core/developer/tutorials/poe-solidity) (smart contract and frontend)
+    - Commonly used libraries on smart contract development
+    - PoE dApp (Solidity) tutorial
 
 - Episode 06: Using CESS API and Building Custom Pallets
-    - DeOSS (Alex)
+    - DeOSS
         - What is DeOSS, DeOSS gateway
         - Workflow of using DeOSS
         - Demo of using DeOSS on CLI
-        - Demo of using DeOSS through [js-sdk](https://docs.cess.cloud/core/developer/tutorials/cess-js-sdk)
+        - Demo of using DeOSS through [**cess-js-sdk**](https://docs.cess.cloud/core/developer/tutorials/cess-js-sdk)
             - What is js-sdk? How to use the js-sdk?
             - Walk through a tutorial of js-sdk to build a dApp interacting with CESS
-    - [Build your own pallet](https://docs.cess.cloud/core/developer/guides/src-overview) (Jimmy)
-        - Prerequisite (need rust background)
-        - high level description of Substrate
+    - Build your own pallet
+        - Prerequisites
+        - High level description of Substrate
         - Substrate pallet development
-        - CESS pallets walkthrough: FileBank pallet, Audit pallet, Sminer pallet
+        - CESS pallets walkthrough: FileBank pallet, Sminer pallet
 
 - Assignment
     - Individual Assignment 03
@@ -117,7 +117,9 @@ Continue working on the team project
 - Team project - 50% (all team members share the same score)
 - 5-10 mins team presentation - 20% (all team members share the same score)
 
-# NFT Upon Course Completion
+## NFT Reward
 
-- Those achieve 75% of score will get an NFT of Course Completion.
-- We may issue NFT for those with distinguished team projects.
+Upon Course Completion:
+
+- Those who achieve 75% of score will get an NFT of Course Completion.
+- We may issue NFTs for those with distinguished team projects.
