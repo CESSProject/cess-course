@@ -4,8 +4,8 @@ Welcome to the CESS Course Cohort I.
 
 {% embed url="https://youtu.be/irJ5ZmYeGyU?si=g7pZO_JQ9u9wv9w1" %}
 
-Main Support for the course:
+Main support for the course:
 
-- [Discord channel](#)
+- [Discord channel](https://discord.gg/cess)
 
-Start checking out the course episode on the left navigation bar.
+Start checking out the course episodes from the left navigation bar.
