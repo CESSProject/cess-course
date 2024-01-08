@@ -6,4 +6,6 @@ Welcome to the CESS Course Cohort I.
 
 Main support for the course: [**CESS Discord channel**](https://discord.gg/cess)
 
-Start checking out the course episodes from the left navigation bar.
+**Join the course opening sync meeting ([zoom link](#) / recording) on [INSERT DATE AND TIME].**
+
+Check out the course episodes from the left navigation bar.
