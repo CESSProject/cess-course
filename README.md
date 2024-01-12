@@ -22,3 +22,7 @@ Check out the course episodes from the left navigation bar.
 - Week of Mar 11: team presentation session
 - Mar 18 2024, 00:00 UTC: team project due
 - Mar 22/23 2024: Graduation session (~1 hours)
+
+## Zoom room
+
+- [CESS Course zoom room](https://us02web.zoom.us/j/88536105861?pwd=MkhhRjFXdHlsTDg3YlovOFZBMXI1UT09) (open at specified periods)
