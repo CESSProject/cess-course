@@ -83,8 +83,13 @@
 
 ## Week 04
 
-- **Episode 07**: Running a storage miner
-- **Episode 08**: Running a consensus miner
+- **Episode 07**: Running a storage node
+    - Introduction of CESS Storage Miner
+    - CESS Tokenomics
+    - Storage Miner Reward and Slashing Mechanism
+    - Demo: Running a CESS storage Miner
+
+- **Episode 08**: Running a consensus node
 - Assignment
     - Survey for students who are interested in running storage or consensus miner nodes
     - Work on the team project
