@@ -20,6 +20,6 @@ Please check out the course episodes from the left navigation bar.
 
 ## Support & Interaction
 
-- Main support for the course: [Discord channel: **course-cohort-1**](https://discord.gg/ddsPWuWDWn)
+- Main support for the course: [Discord channel: **course-cohort-1**](https://discord.gg/73rmNYTsW5)
 - **Office Hours**: Every Thursday 19:00 - 20:00 UTC +8, run from Jan 29 - Mar 17, using the course Zoom room.
 - [CESS Course Zoom room](https://us02web.zoom.us/j/88536105861?pwd=MkhhRjFXdHlsTDg3YlovOFZBMXI1UT09)
