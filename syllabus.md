@@ -118,9 +118,8 @@ Continue working on the team project
 
 # Grading
 
-- Individual assignments - 30% (10% for each assignment)
-- Team project - 50% (all team members share the same score)
-- 5-10 mins team presentation - 20% (all team members share the same score)
+- Individual assignments - 40%
+- [Team project](./team-project.md) - 60% (all team members share the same score)
 
 ## NFT Reward
 
