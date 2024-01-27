@@ -1,0 +1,3 @@
+- [Episode 1: Introduction of CESS and Its Roadmap](./ep01.md)
+- [Episode 2: Introduction to CESS Technical Architecture](./ep02.md)
+- [Assignment](./assignment.md)
