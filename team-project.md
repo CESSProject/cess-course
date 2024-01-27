@@ -1,4 +1,4 @@
-# Why a Team Project
+# Why Team Project
 
 Team project aims to encourage students to get hands-on about their learning and conduct self-directing study and research. This is the area where we (the CESS team) can learn from you as well.
 
@@ -27,10 +27,10 @@ Number of team members allowed: 1 - 4 people
 
 Total 60%, composed of:
 
-- Smart contract / pallet code / DeOSS API usage completion & elegance: 20%
-- Frontend / client code completion and elegance: 20%
-- Short writeup / demo video: 5%
-- Team presentation: 15%
+- smart contract / pallet code / DeOSS API usage completion and elegance: 20%
+- front end / client code completion and elegance: 20%
+- short writeup / demo video: 5%
+- team presentation: 15%
 
 # Non-development Track
 
@@ -38,7 +38,7 @@ This track is for non-developers to get a better understanding in CESS architect
 
 Based on [CESS whitepaper](https://docs.cess.cloud/core/readme/whitepaper), [CESS doc **Concepts** section](https://docs.cess.cloud/core/concepts), or the docs section in general, write on one of the following subjects:
    - a critique on the CESS architecture & tokenomics: where it can be improved and any potential weakness.
-   - a proposal on the dApp you dream to build on top of CESS. If there is a frontend/client side, please include a sketch or low-fidelity mockups of the app.
+   - a proposal on the dApp you dream to build on top of CESS. If there is a front end/client side, please include a sketch or low-fidelity mockups of the app.
    - a user experience report on using the CESS platform overall, it can be on the dApps, connecting to CESS chain, storing and retrieving object data via DeOSS, running the miner applications.
 
 The writeup should be between 1,000 - 3,000 words.
@@ -53,7 +53,7 @@ Number of team members allowed: 1 - 2 people
 
 Total 60%, composed of:
 
-- Originality/Insight: 25%
-- Writeup structure: 10%
-- Writeup elegance: 10%
-- Team presentation: 15%
+- originality and insight: 25%
+- writeup structure: 10%
+- writeup elegance: 10%
+- team presentation: 15%
