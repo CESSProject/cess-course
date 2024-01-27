@@ -1,6 +1,6 @@
 # Syllabus
 
-## Week 01
+## Week 01 (Jan 29 - Feb 4)
 
 - **Episode 01**: Introduction of CESS and its roadmap
     - Course Logistics
@@ -18,7 +18,7 @@
 - Assignment
     - Individual Assignment 01
 
-## Week 02
+## Week 02 (Feb 5 - Feb 11)
 
 - **Episode 03**: Community Members & Users
     - Five types of user roles in CESS ecosystem
@@ -49,7 +49,7 @@
     - Individual Assignment 02
     - Team Forming Session
 
-## Week 03
+## Week 03 (Feb 12 - Feb 18)
 
 - **Episode 05**: dApp Development using Solidity Smart Contract
     - smart contract: Solidity
@@ -78,28 +78,36 @@
 
 - Assignment
     - Individual Assignment 03
-    - Team submits member list and record a presentation of 3-min video to describe your project
-    - Work on the team project
+    - Start working on the team project
 
-## Week 04
+## Week 04 (Feb 19 - Feb 25)
 
-- **Episode 07**: Running a storage miner
-- **Episode 08**: Running a consensus miner
+- **Episode 07**: Running a storage node
+    - Introduction of CESS Storage Miner
+    - CESS Tokenomics
+    - Storage Miner Reward and Slashing Mechanism
+    - Demo: Running a CESS storage Miner
+
+- **Episode 08**: Running a consensus node
+
 - Assignment
-    - Survey for students who are interested in running storage or consensus miner nodes
+    - Team coordinator submits team formation survey
     - Work on the team project
+    - Optional Survey for students who are interested in running storage or consensus nodes
 
-## Week 05
+## Week 05 (Feb 26 - Mar 3)
 
 Continue working on the team project
 
-## Week 06
+## Week 06 (Feb 4 - Mar 10)
+
+Continue working on the team project
+
+## Week 07 (Mar 11 - Mar 17)
 
 - Assignment
     - Submit team project by end of the week
     - There will be a 5-10 mins presentation for each team
-
-## Week 07
 
 - CESS evaluate team submissions, pick 3-5 teams, and invite them to share.
 
