@@ -4,7 +4,7 @@ Welcome to the CESS Course Cohort I.
 
 CESS cofounders welcome message.
 
-{% embed url="https://youtu.be/Vk9oyswRndk" %}
+{% embed url="https://youtu.be/qn_uAt6Yeqw" %}
 
 Course instructors welcome message.
 
