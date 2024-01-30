@@ -1,4 +1,4 @@
-# Episode 6a: Distribute NFTs using CESS chain in ink!
+# Episode 6a: Decentralized Object Storage Service (DeOSS)
 
 - [Google Slide](https://docs.google.com/presentation/d/1y0kBDUDD6q49E9LzUqbjosxIoBkg59ECH0YQqER5J_4/edit?usp=sharing)
 - [PDF](../assets/week-03/wk03-ep06a.pdf)
