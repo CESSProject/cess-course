@@ -1,7 +1,7 @@
 # Episode 6b: Develop Your Own Pallets
 
 - [Google Slide](https://docs.google.com/presentation/d/1mV0QrHdPGLrlwmCwlgW72fEokw6QNx2qD7jsmzvW14c/edit?usp=sharing)
-- [PDF](../assets/week-03/wk03-ep06b.pdf)
+- [PDF](https://drive.google.com/file/d/1-PkTwX84UnD6uy3gM1v6uk4oeDoTuspp/view?usp=sharing)
 
 # Topics
 

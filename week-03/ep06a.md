@@ -1,7 +1,7 @@
 # Episode 6a: Decentralized Object Storage Service (DeOSS)
 
 - [Google Slide](https://docs.google.com/presentation/d/1y0kBDUDD6q49E9LzUqbjosxIoBkg59ECH0YQqER5J_4/edit?usp=sharing)
-- [PDF](../assets/week-03/wk03-ep06a.pdf)
+- [PDF](https://drive.google.com/file/d/1-x0lXbPfUFFWmdzm5SXr-66DmysKq2h4/view?usp=sharing)
 
 # Topics
 
