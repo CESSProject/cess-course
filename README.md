@@ -14,10 +14,12 @@ Please check out the course episodes from the left navigation bar.
 
 ## Announcement
 
-- <font color="#f00">2024-02-08</font>:
-   - The **team forming session** is combined with the office hour session on **Feb 15, 11:00 UTC**. If you are looking for teammates in your group project, please join. We will first answer student questions on that week material. Afterward, student with project ideas will present (no need for slide, just share with us in Zoom), and students with certain area interest/skills will also introduce themselves so they can get together afterwards offline / on Discord.
-   - The week 2 assignment deadline is postponed to Feb 14 00:00 UTC, as it is Lunar New Year holiday for some of us.
-   - Please [tell us your Discord ID](https://forms.gle/ZLEeH3SEL8RwYQha9) so we can better communicate with you.
+**2024-02-08**:
+- The **team forming session** is combined with the office hour session on **Feb 15, 11:00 UTC**. If you are looking for teammates in your group project, please join. We will first answer student questions on that week material. Afterward, student with project ideas will present (no need for slide, just share with us in Zoom), and students with certain area interest/skills will also introduce themselves so they can get together afterwards offline / on Discord.
+- The **week 2 assignment deadline** is postponed to **Feb 14 00:00 UTC**, as it is Lunar New Year holiday for some of us.
+- Please [tell us your Discord ID](https://forms.gle/ZLEeH3SEL8RwYQha9) so we can better communicate with you.
+
+---
 
 ## Key Date & Time
 
