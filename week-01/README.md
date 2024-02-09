@@ -1,4 +1,4 @@
 - [Episode 1: Introduction of CESS and Its Roadmap](./ep01.md)
 - [Episode 2: Introduction to CESS Technical Architecture](./ep02.md)
 - [Assignment](./assignment.md)
-- [Office Hour Recording](https://youtu.be/nUEkgEe7bO0)
+- [Week 1 office hour Recording](https://youtu.be/nUEkgEe7bO0)
