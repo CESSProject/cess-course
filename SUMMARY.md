@@ -11,3 +11,8 @@
   * [Episode 3: Community Members & Users](week-02/ep03.md)
   * [Episode 4: Smart Contract Development using ink!](week-02/ep04.md)
   * [Assignment](week-02/assignment.md)
+* [3️⃣ Week 3](week-03/README.md)
+  * [Episode 5: Smart Contract Development using Solidity](week-03/ep05.md)
+  * [Episode 6a: Distribute NFTs using CESS chain in ink!](week-03/ep06a.md)
+  * [Episode 6b: Develop Your Own Pallets](week-03/ep06b.md)
+  * [Assignment](week-03/assignment.md)
