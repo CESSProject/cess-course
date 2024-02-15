@@ -128,5 +128,5 @@ Continue working on the team project
 
 Upon Course Completion:
 
-- Those who achieve 75% of score will get an NFT of Course Completion.
+- Those who achieve 70% of score will get an NFT of Course Completion.
 - We may issue NFTs for those with distinguished team projects.
