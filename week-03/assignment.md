@@ -1,4 +1,4 @@
-Assignment Submission Deadline: Feb 19 2024, 00:00 UTC
+Assignment Submission Deadline: Feb 21 2024, 00:00 UTC
 
 [👉 Go to assignment 👈](https://forms.gle/cjYsbkbj3WSUvKvk7)
 
