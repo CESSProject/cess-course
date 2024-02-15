@@ -18,7 +18,7 @@ Please check out the course episodes from the left navigation bar.
 
 - To encourage more students to participate in the course assignment, we have adjusted the grading/assignment policy as followed:
    - The overall passing rate of the course is adjusted to 70% (to be rewarded Course Completion NFT).
-   - All assignments allow late submissions until **Mar 4th, 00:00 UTC**. Assignments submitted after the first deadline will have will have its score multiplied with a 30% discount.
+   - All assignments allow late submissions until **Mar 4th, 00:00 UTC**. Assignments submitted after the first deadline will have will have its score **multiplied by 0.7**.
 
 - As week 3 have more video content and materials compared to the rest, the assignment submission deadline is adjusted to **Feb 21, 00:00 UTC**
 
