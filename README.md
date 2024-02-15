@@ -18,9 +18,9 @@ Please check out the course episodes from the left navigation bar.
 
 - To encourage more students to participate in the course assignment, we have adjusted the grading/assignment policy as followed:
    - The overall passing rate of the course is adjusted to 70% (to be rewarded Course Completion NFT).
-   - All assignments allow late submissions until **Mar 4th 00:00 UTC**. Assignments submitted after the first deadline will have will have its score multiplied with a 30% discount.
+   - All assignments allow late submissions until **Mar 4th, 00:00 UTC**. Assignments submitted after the first deadline will have will have its score multiplied with a 30% discount.
 
-- As week 3 have more video content and materials compared to the rest, the assignment submission deadline is adjusted to **Feb 21 00:00 UTC**
+- As week 3 have more video content and materials compared to the rest, the assignment submission deadline is adjusted to **Feb 21, 00:00 UTC**
 
 **2024-02-08**:
 - The **team forming session** is combined with the office hour session on **Feb 15, 11:00 UTC**. If you are looking for teammates in your group project, please join. We will first answer student questions on that week material. Afterward, student with project ideas will present (no need for slide, just share with us in Zoom), and students with certain area interest/skills will also introduce themselves so they can get together afterwards offline / on Discord.
