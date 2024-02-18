@@ -16,3 +16,7 @@
   * [Episode 6a: Distribute NFTs using CESS chain in ink!](week-03/ep06a.md)
   * [Episode 6b: Develop Your Own Pallets](week-03/ep06b.md)
   * [Assignment](week-03/assignment.md)
+* [4️⃣ Week 4](week-04/README.md)
+  * [Episode 7: Running a Storage Node](week-04/ep07.md)
+  * [Episode 8: Running a Consensus Node](week-04/ep08.md)
+  * [Assignment](week-04/assignment.md)
