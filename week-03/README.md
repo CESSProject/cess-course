@@ -2,3 +2,4 @@
 - [Episode 6a: Distribute NFTs using CESS chain in ink!](./ep06a.md)
 - [Episode 6b: Develop Your Own Pallets](./ep06b.md)
 - [Assignment](./assignment.md)
+- [Week 3 office hour recording](https://youtu.be/Qex6VEpMkb4)

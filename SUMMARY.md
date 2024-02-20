@@ -13,7 +13,7 @@
   * [Assignment](week-02/assignment.md)
 * [3️⃣ Week 3](week-03/README.md)
   * [Episode 5: Smart Contract Development using Solidity](week-03/ep05.md)
-  * [Episode 6a: Distribute NFTs using CESS chain in ink!](week-03/ep06a.md)
+  * [Episode 6a: Decentralized Object Storage Service (DeOSS)](week-03/ep06a.md)
   * [Episode 6b: Develop Your Own Pallets](week-03/ep06b.md)
   * [Assignment](week-03/assignment.md)
 * [4️⃣ Week 4](week-04/README.md)
