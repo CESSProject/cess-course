@@ -20,3 +20,4 @@
   * [Episode 7: Running a Storage Node](week-04/ep07.md)
   * [Episode 8: Running a Consensus Node](week-04/ep08.md)
   * [Assignment](week-04/assignment.md)
+* [5️⃣ Week 5: Team Project](week-05/README.md)

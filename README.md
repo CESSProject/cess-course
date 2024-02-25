@@ -32,14 +32,14 @@ Please check out the course episodes from the left navigation bar.
 ## Key Date & Time
 
 - Jan 29 2024: Course start
-- Feb 5  2024, 00:00 UTC: week 1 assignment due
+- Feb  5 2024, 00:00 UTC: week 1 assignment due
 - Feb 12 2024, 00:00 UTC: week 2 assignment due
 - Feb 15 2024, 11:00 UTC: online team forming session (for those looking for team/teammates), combined with the office hour session in that week.
-- Feb 19 2024, 00:00 UTC: week 3 assignment due
-- Feb 22 2024, 00:00 UTC: submit [team formation survey](https://forms.gle/hm1HFxCFHDmc4Wxz7)
-- Mar 16 2024, 00:00 UTC: [team project submission](https://forms.gle/xqbzCVUVEELUjJxC6) due
+- Feb 21 2024, 00:00 UTC: week 3 assignment due
+- Mar  4 2024, 00:00 UTC: submit [team formation survey](https://forms.gle/hm1HFxCFHDmc4Wxz7)
+- Mar 17 2024, 00:00 UTC: [team project submission](https://forms.gle/xqbzCVUVEELUjJxC6) due
 - Week of Mar 18: team presentation session (1 - 2 sessions)
-- Mar 22/23 2024: commencement session (~1 hours)
+- Mar 22 2024: commencement session (~1 hours)
 
 ## Support & Interaction
 
