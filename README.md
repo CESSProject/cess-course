@@ -14,6 +14,11 @@ Please check out the course episodes from the left navigation bar.
 
 ## Announcement
 
+**2024-03-06**:
+
+- Currently we are on the week 6 of the course. For those that haven't registered for a team, please fill in the team formation survey.
+- Team project will be due by **Mar 18, 00:00 UTC**.
+
 **2024-02-15**:
 
 - To encourage more students to participate in the course assignment, we have adjusted the grading/assignment policy as followed:
