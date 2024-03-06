@@ -23,4 +23,4 @@
 * [5️⃣ Week 5](week-05/README.md)
 * [6️⃣ Week 6](week-06/README.md)
 * [7️⃣ Week 7: Team Project Due](week-07/README.md)
-* [8️⃣ Week 8: Course End](week-08/README.md)
+* [8️⃣ Week 8: Conclusion](week-08/README.md)
