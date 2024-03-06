@@ -17,7 +17,7 @@ Please check out the course episodes from the left navigation bar.
 **2024-03-06**:
 
 - Currently we are on the week 6 of the course. For those that haven't registered for a team, please fill in the team formation survey.
-- Team project will be due by **Mar 18, 00:00 UTC**.
+- [Submit the team project](https://forms.gle/X2WNjt7EQQu4gQp57) by **Mar 18, 00:00 UTC**.
 
 **2024-02-15**:
 

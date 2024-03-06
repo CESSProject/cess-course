@@ -109,8 +109,9 @@ Continue working on the team project
     - Submit team project by end of the week
     - There will be a 5-10 mins presentation for each team
 
-- CESS evaluate team submissions, pick 3-5 teams, and invite them to share.
+## Week 08 (Mar 18 - Mar 22)
 
+- CESS evaluate team submissions, pick 3-5 teams, and invite them to share.
 - **Graduation Ceremony (Real-time)**: NFTs are issued for those completing the course.
 
 # Getting Help & Office Hours
