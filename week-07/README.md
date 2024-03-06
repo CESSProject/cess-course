@@ -1,3 +1,3 @@
-- CESS evaluate team submissions, pick 3-5 teams, and invite them to share.
+# Team Project Submission
 
-- Graduation Ceremony (zoom, real-time)
+- [Submit team project](https://forms.gle/X2WNjt7EQQu4gQp57) by **Mar 18, 00:00 UTC**.
