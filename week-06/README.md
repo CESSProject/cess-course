@@ -1,1 +1,2 @@
-Continue working on the team project
+- This week please continue working on the team project
+- [Week 6 office hour recording](https://youtu.be/P4aCUYnUN34)
