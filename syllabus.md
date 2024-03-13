@@ -105,9 +105,7 @@ Continue working on the team project
 
 ## Week 07 (Mar 11 - Mar 17)
 
-- Assignment
-    - Submit team project by end of the week
-    - There will be a 5-10 mins presentation for each team
+- Assignment: Submit team project by end of the week
 
 ## Week 08 (Mar 18 - Mar 22)
 
