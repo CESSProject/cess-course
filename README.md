@@ -12,7 +12,13 @@ Course instructors welcome message.
 
 Please check out the course episodes from the left navigation bar.
 
-## Announcement
+## 📣 Announcement 📣
+
+**2024-03-13**:
+
+- For teams that are planning to submit a team project, remember to submit it in [the form](https://forms.gle/X2WNjt7EQQu4gQp57) by **Mar 18 Mon 00:00 UTC**.
+- Tomorrow will be our last office hour for this cohort, please join us at the [course Zoom room](https://us02web.zoom.us/j/88536105861?pwd=MkhhRjFXdHlsTDg3YlovOFZBMXI1UT09) at Mar 14 Thr 11:00 - 12:00 UTC.
+- The course commencement will happen on **Mar 20 Wed 11:00 - 12:00 UTC** at the usual [course Zoom room](https://us02web.zoom.us/j/88536105861?pwd=MkhhRjFXdHlsTDg3YlovOFZBMXI1UT09). Everyone is welcome to join. We will also announce the students who have completed the course.
 
 **2024-03-06**:
 
