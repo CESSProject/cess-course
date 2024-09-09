@@ -1,131 +1,108 @@
-# Syllabus
+# CESS Network Course Syllabus
 
-## Week 01 (Jan 29 - Feb 4)
+## Episode 1- CESS Network Introduction
 
-- **Episode 01**: Introduction of CESS and its roadmap
-    - Course Logistics
-    - What is CESS? CESS in Summary
-    - Platform Architecture
-    - Client Interaction Model
-    - Technical Highlight
-    - Use Cases
-    - Development Roadmap
-    - Try Out CESS
+- Course Logistics
+- What is CESS?
+- Why Choose CESS?
+- Decentralized Industry Challenges and Solutions
+  - Storage Industry Challenges & Solutions
+  - Content Delivery Network Challenges & Solutions
+  - AI Training Challenges
+- CESS Use Case
+- History and Roadmap
+- Try Out CESS
+- Learn, Explore, Contribute
+- Getting in Touch
+  
+## Episode 2- CESS Architecture & Key Technologies
 
-- **Episode 02**: Introduction to CESS Technical Architecture
-    - Node Roles
+- CESS Network Platform Architecture
+- Key Technologies
+  - Proof of Data Reduplication and Recovery
+  - Multi-format Data Rights Confirmation
+  - Random Rotational Selection Consensus Mechanism
+  - Proxy Re-encryption
+  - CESS AI-LINK
+  - Smart Space Management
+- Client Interaction Model
 
-- Assignment
-    - Individual Assignment 01
+## Episode 3- CESS Ecosystem, and Applications
 
-## Week 02 (Feb 5 - Feb 11)
+- CESS Ecosystem & Roles
+- Ways to Participate in CESS Ecosystem
+- CESS Events
+- CESS Applications
+  - User: TellyWelly
+  - User: DeShare
+  - User: DeCloud
+  - User: Videown
 
-- **Episode 03**: Community Members & Users
-    - Five types of user roles in CESS ecosystem
-    - Community Member: Ambassador Program
-    - Community Member: Creating a CESS Account
-    - User: Getting Testnet Tokens from Faucet
-    - User: VideOwn
-    - User: DeShare
-    - User: Substats
+## Episode 4- CESS Nodes & CESS Account Setup
 
-- **Episode 04**: dApp Development using ink! Smart Contract
-    - Describe 3 types of development on CESS
-        1. Interacting with CESS using DeOSS Api and SDKs.
-        Difficulty: ★★
-        2. Deploying smart contract on CESS, using it as your backend. Then build frontend interacting w. the smart contract. Support two types of smart contract: ink! and Solidity.
-        Difficulty: ★★★
-        3. Building your own pallets and integrate it in CESS chain
-        Difficulty: ★★★★
-    - smart contract: ink!
-        - What is ink! smart contract
-        - Walkthrough a simple ink! smart contract structure
-        - Demonstrate how to deploy the ink! smart contract on CESS
-    - Interacting with ink! smart contract with [use-ink](https://use.ink/frontend/overview/#useink) library
-        - A simple demonstration of frontend and use-ink
-    - Demo: NFT marketplace example
+- CESS Nodes and The Why?
+  - Consensus Node
+  - Storage Node
+  - Retrieval Node
+  - Cache Node
+- Tokenomics
+- Demo: CESS Account Setup
 
-- Assignment
-    - Individual Assignment 02
-    - Team Forming Session
+## Episode 5- Demo: Running a Consensus Node
 
-## Week 03 (Feb 12 - Feb 18)
+- System Requirements
+- Prerequisites
+- Consensus Node Operational Capacity
+- Binding Funds
+- Consensus Node Installation, Setup and Common Operations
 
-- **Episode 05**: dApp Development using Solidity Smart Contract
-    - smart contract: Solidity
-        - Substrate-EVM address Conversion
-        - What is solidity contract
-        - Fund your evm deployment account
-        - Walkthrough a simple solidity contract and deploy the smart contract on CESS
-    - Interacting with solidity contract with [ethers.js](https://docs.ethers.org/v6/), [wagmi](https://wagmi.sh/), [viem](https://viem.sh/)
-    - Comparison of smart contract dev in ink! and solidity
-    - Commonly used libraries on smart contract development
-    - PoE dApp (Solidity) tutorial
+## Episode 6- Demo: Running a Storage Node
 
-- **Episode 06**: Using CESS API and Building Custom Pallets
-    - DeOSS
-        - What is DeOSS, DeOSS gateway
-        - Workflow of using DeOSS
-        - Demo of using DeOSS on CLI
-        - Demo of using DeOSS through [**cess-js-sdk**](https://docs.cess.cloud/core/developer/tutorials/cess-js-sdk)
-            - What is js-sdk? How to use the js-sdk?
-            - Walk through a tutorial of js-sdk to build a dApp interacting with CESS
-    - Build your own pallet
-        - Prerequisites
-        - High level description of Substrate
-        - Substrate pallet development
-        - CESS pallets walkthrough: FileBank pallet, Sminer pallet
+- System Requirements
+- Prerequisites
+- Storage Node Installation, Setup and Common Operations
 
-- Assignment
-    - Individual Assignment 03
-    - Start working on the team project
+## Episode 7- CESS DeOSS and DeOSS REST API
 
-## Week 04 (Feb 19 - Feb 25)
+- Ways of Development on CESS
+    1. Interacting with CESS using DeOSS API and SDKs. Difficulty: ★
+    2. Building and Deploying Smart Contracts. Difficulty: ★★
+    3. Building Custom Pallets to Integrate with CESS. Difficulty: ★★★
+- Why Develop on CESS? CESS Comparision
+- What is DeOSS?
+- DeOSS System Architecture
+  - DeOSS Workflow
+  - File Upload Process
+  - File Download Process
+- Workflow: Interacting with DeOSS
+- Demo: Using DeOSS REST API
 
-- **Episode 07**: Running a storage node
-    - Introduction of CESS Storage Miner
-    - CESS Tokenomics
-    - Storage Miner Reward and Slashing Mechanism
-    - Demo: Running a CESS storage Miner
+## Episode 8- dApp Development using Ink! Smart Contract
 
-- **Episode 08**: Running a consensus node
+- Ink! Smart Contract Overview
+- Why choose Ink! Smart contract?
+- Flipper smart contract walkthrough
+- Demo: Deploying Ink! smart contract on CESS
+- Interacting with ink! smart contract with use-ink library
+- Demo: NFT marketplace example
 
-- Assignment
-    - Team coordinator submits team formation survey
-    - Work on the team project
-    - Optional Survey for students who are interested in running storage or consensus nodes
+## Episode 9- dApp Development using Solidity Smart Contract
 
-## Week 05 (Feb 26 - Mar 3)
+- Why choose Solidity Smart Contract?
+- Commonly Used Libraries
+- Substrate-EVM Address Conversion
+- Demo: Transferring Funds Between Substrate and EVM
+- Demo: Deploying Solidity Smart Contract
 
-Continue working on the team project
+## Episode 10- Building Custom Pallet
 
-## Week 06 (Feb 4 - Mar 10)
-
-Continue working on the team project
-
-## Week 07 (Mar 11 - Mar 17)
-
-- Assignment: Submit team project by end of the week
-
-## Week 08 (Mar 18 - Mar 22)
-
-- CESS evaluate team submissions, pick 3-5 teams, and invite them to share.
-- **Graduation Ceremony (Real-time)**: NFTs are issued for those completing the course.
-
-# Getting Help & Office Hours
-
-- Discord channel: this is the official channel for students to contact instructors and TAs. Student can also communicate and team up here.
-
-- Office Hours: 1-2 hour a week. We will try it out in Discord voice channel / Zoom.
-
-# Grading
-
-- Individual assignments - 40%
-- [Team project](./team-project.md) - 60% (all team members share the same score)
-
-## NFT Reward
-
-Upon Course Completion:
-
-- Those who achieve 70% of score will get an NFT of Course Completion.
-- We may issue NFTs for those with distinguished team projects.
+- Why build your own pallets? Purpose.
+- How to contribute to CESS with custom pallets?
+- High-Level Description of CESS (Substrate) Framework
+- CESS Course Code
+- Overview of the CESS Node and Runtime
+- Structure of the Runtime
+- Integration of Pallets
+- Pallets Integrated in CESS Node
+- File-bank and Sminer pallets
+- Demo: Adding a custom pallet to the CESS Node
