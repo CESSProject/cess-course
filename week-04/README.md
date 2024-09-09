@@ -1,4 +1,0 @@
-- [Episode 7: Running a Storage Miner](./ep07.md)
-- [Episode 8: Running a Consensus Miner](./ep08.md)
-- [Assignment](./assignment.md)
-- There is no recording for week 4 office hour.

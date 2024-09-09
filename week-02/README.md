@@ -1,4 +1,0 @@
-- [Episode 3: Community Members & Users](./ep03.md)
-- [Episode 4: Smart Contract Development using ink!](./ep04.md)
-- [Assignment](./assignment.md)
-- [Week 2 office hour recording](https://youtu.be/wk1TuUW77FI)

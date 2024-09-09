@@ -1,66 +1,21 @@
-# CESS Course Cohort I
+# CESS Network Course
 
-Welcome to the CESS Course Cohort I.
+Welcome to the CESS Network Course, an in-depth journey into the future of decentralized data infrastructure. This comprehensive 10-episode series is designed to provide you with a strong understanding of the CESS Network, from its foundational principles to hands-on development. You will learn how CESS is revolutionizing data management and delivery through its decentralized solutions.
 
-CESS cofounders welcome message.
+Throughout this course, you'll explore key aspects of CESS, including its architecture, ecosystem, and the powerful technologies that underpin it. You'll also gain practical experience with CESS APIs, developing dApps, setting up and running nodes, and even adding custom features to the CESS source code.
 
-{% embed url="https://youtu.be/qn_uAt6Yeqw" %}
+## What You’ll Learn
 
-Course instructors welcome message.
+- Introduction to CESS: What it is, its development history, and why it's a game changer in the decentralized storage space.
 
-{% embed url="https://youtu.be/irJ5ZmYeGyU?si=g7pZO_JQ9u9wv9w1" %}
+- CESS Architecture and Key Technologies: Dive deep into the network's structure and technologies.
+- The CESS Ecosystem: Explore user roles, participation benefits, and current applications.
+- Node Setup and CESS Accounts: Learn about becoming a node, and setting up CESS accounts.
+- Consensus and Storage Node Demos: A step-by-step guide to running consensus and storage nodes.
+- DeOSS and REST API: Discover decentralized object storage on CESS, and how to use the REST API for scalable and secure data storage.
+- dApp Development: Build dApps using Ink! and Solidity smart contracts on CESS, complete with practical examples.
+- Custom Pallets: Learn how to build and integrate custom pallets to contribute to the network’s development.
 
-Please check out the course episodes from the left navigation bar.
+This course equips you with the knowledge and tools to engage with the CESS Network, whether you're a developer looking to integrate CESS services or a user exploring the benefits of decentralized data storage. You'll also have access to developer bounties, grants, and opportunities for project incubation.
 
-## 📣 Announcement 📣
-
-**2024-03-20**:
-
-- The course commencement will happen on **Mar 20 Wed 11:00 - 12:00 UTC** at the usual [course Zoom room](https://us02web.zoom.us/j/88536105861?pwd=MkhhRjFXdHlsTDg3YlovOFZBMXI1UT09). You can also watch it [livestreamed to Youtube](https://www.youtube.com/watch?v=AYkTyWKmDxo).
-
-- The following are students completing the course. Congratulation 🎉 🍾
-
-   ![Graduating Student List](./assets/week-08/graduating-list.png)
-
-**2024-03-13**:
-
-- For teams that are planning to submit a team project, remember to submit it in [the form](https://forms.gle/X2WNjt7EQQu4gQp57) by **Mar 18 Mon 00:00 UTC**.
-- Tomorrow will be our last office hour for this cohort, please join us at the [course Zoom room](https://us02web.zoom.us/j/88536105861?pwd=MkhhRjFXdHlsTDg3YlovOFZBMXI1UT09) at Mar 14 Thr 11:00 - 12:00 UTC.
-- The course commencement will happen on **Mar 20 Wed 11:00 - 12:00 UTC** at the usual [course Zoom room](https://us02web.zoom.us/j/88536105861?pwd=MkhhRjFXdHlsTDg3YlovOFZBMXI1UT09). Everyone is welcome to join. We will also announce the students who have completed the course.
-
-**2024-03-06**:
-
-- Currently we are on the week 6 of the course. For those that haven't registered for a team, please fill in the team formation survey.
-- [Submit the team project](https://forms.gle/X2WNjt7EQQu4gQp57) by **Mar 18, 00:00 UTC**.
-
-**2024-02-15**:
-
-- To encourage more students to participate in the course assignment, we have adjusted the grading/assignment policy as followed:
-   - The overall passing rate of the course is adjusted to 70% (to be rewarded Course Completion NFT).
-   - All assignments allow late submissions until **Mar 4th, 00:00 UTC**. Assignments submitted after the first deadline will have will have its score **multiplied by 0.7**.
-
-- As week 3 have more video content and materials compared to the rest, the assignment submission deadline is adjusted to **Feb 21, 00:00 UTC**
-
-**2024-02-08**:
-- The **team forming session** is combined with the office hour session on **Feb 15, 11:00 UTC**. If you are looking for teammates in your group project, please join. We will first answer student questions on that week material. Afterward, student with project ideas will present (no need for slide, just share with us in Zoom), and students with certain area interest/skills will also introduce themselves so they can get together afterwards offline / on Discord.
-- The **week 2 assignment deadline** is postponed to **Feb 14 00:00 UTC**, as it is Lunar New Year holiday for some of us.
-- Please [tell us your Discord ID](https://forms.gle/ZLEeH3SEL8RwYQha9) so we can better communicate with you.
-
----
-
-## Key Date & Time
-
-- Jan 29 2024: Course start
-- Feb  5 2024, 00:00 UTC: week 1 assignment due
-- Feb 12 2024, 00:00 UTC: week 2 assignment due
-- Feb 15 2024, 11:00 UTC: online team forming session (for those looking for team/teammates), combined with the office hour session in that week.
-- Feb 21 2024, 00:00 UTC: week 3 assignment due
-- Mar  4 2024, 00:00 UTC: submit [team formation survey](https://forms.gle/hm1HFxCFHDmc4Wxz7)
-- Mar 17 2024, 00:00 UTC: [team project submission](https://forms.gle/xqbzCVUVEELUjJxC6) due
-- Week of Mar 18: team presentation session (1 - 2 sessions)
-- Mar 22 2024: commencement session (~1 hours)
-
-## Support & Interaction
-
-- Main support for the course: [Discord channel: **course-cohort-1**](https://discord.gg/73rmNYTsW5)
-- **Office Hours**: Every Thursday 11:00 - 12:00 UTC (19:00 - 20:00 UTC +8), run from Jan 29 - Mar 17, using the [Course Zoom room](https://us02web.zoom.us/j/88536105861?pwd=MkhhRjFXdHlsTDg3YlovOFZBMXI1UT09).
+Join us to unlock the potential of decentralized data management with CESS!
