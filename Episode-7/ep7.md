@@ -21,7 +21,7 @@
 
 ### Part 1- CESS DeOSS
 
-{% embed url="https://youtu.be/pz3cSyyJ9ho" %}
+{% embed url="https://youtu.be/hfe1jA6czkk" %}
 
 ### Part 2- Demo: DeOSS REST API
 
