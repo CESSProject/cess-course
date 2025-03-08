@@ -1,6 +1,22 @@
 # CESS Network Course Syllabus
 
-## Episode 1- CESS Network Introduction
+## Episode 1- Blockchain & Web3 Fundamentals
+
+- Introduction to Blockchain & Web3
+  - What is Blockchain?
+  - Public vs Private Blockchains
+  - Key Components: Nodes, Consensus, Transactions
+  - Web3 vs Web2: Why decentralization matters?
+- Smart Contracts & dApps
+  - What are Smart Contracts?
+  - Ethereum vs Substrate-based Blockchains
+  - Introduction to Decentralized Applications (dApps)
+- Decentralized Storage & Data Ownership
+  - Problems with centralized storage (Google Drive, AWS)
+  - Overview of Decentralized Storage Solutions (IPFS, Filecoin, Arweave, CESS)
+  - How decentralized storage ensures data privacy, security, and ownership
+
+## Episode 2- CESS Network Introduction
 
 - Course Logistics
 - What is CESS?
@@ -15,19 +31,20 @@
 - Learn, Explore, Contribute
 - Getting in Touch
   
-## Episode 2- CESS Architecture & Key Technologies
+## Episode 3- CESS Architecture & Key Technologies
 
 - CESS Network Platform Architecture
 - Key Technologies
-  - Proof of Data Reduplication and Recovery
-  - Multi-format Data Rights Confirmation
-  - Random Rotational Selection Consensus Mechanism
-  - Proxy Re-encryption
+  - Proof of Data Reduplication and Recovery (PoDR$^2$)
+  - Proof of Idle Space (PoIS)
+  - Multi-format Data Rights Confirmation (MDRC)
+  - Random Rotational Selection (R$^2$S) Consensus Mechanism
+  - Proxy Re-encryption Technology (PReT)
   - CESS AI-LINK
   - Smart Space Management
 - Client Interaction Model
 
-## Episode 3- CESS Ecosystem, and Applications
+## Episode 4- CESS Ecosystem, and Applications
 
 - CESS Ecosystem & Roles
 - Ways to Participate in CESS Ecosystem
@@ -38,29 +55,29 @@
   - User: DeCloud
   - User: Videown
 
-## Episode 4- CESS Nodes & CESS Account Setup
+## Episode 5- CESS Nodes & CESS Account Setup
 
 - CESS Nodes and The Why?
   - Consensus Node
   - Storage Node
-  - Retrieval Node
-  - Cache Node
+  - CDN Node
+  - TEE Node
 - Tokenomics
 - Demo: CESS Account Setup
 
-## Episode 5- Demo: Running a Consensus Node
+## Episode 6- Running CESS Nodes
 
-- System Requirements
-- Prerequisites
-- Consensus Node Operational Capacity
-- Binding Funds
-- Consensus Node Installation, Setup and Common Operations
+- Demo: Running a Consensus Node
+  - System Requirements
+  - Prerequisites
+  - Consensus Node Operational Capacity
+  - Binding Funds
+  - Consensus Node Installation, Setup and Common Operations
 
-## Episode 6- Demo: Running a Storage Node
-
-- System Requirements
-- Prerequisites
-- Storage Node Installation, Setup and Common Operations
+- Demo: Running a Storage Node
+  - System Requirements
+  - Prerequisites
+  - Storage Node Installation, Setup and Common Operations
 
 ## Episode 7- CESS DeOSS and DeOSS REST API
 
