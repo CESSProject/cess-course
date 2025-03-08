@@ -6,8 +6,8 @@ Throughout this course, you'll explore key aspects of CESS, including its archit
 
 ## What You’ll Learn
 
+- Blockchain & Web3 Fundamentals: Before diving into the CESS Network, we'll first explore the fundamentals of Blockchain and Web3 to build a solid foundation.
 - Introduction to CESS: What it is, its development history, and why it's a game changer in the decentralized storage space.
-
 - CESS Architecture and Key Technologies: Dive deep into the network's structure and technologies.
 - The CESS Ecosystem: Explore user roles, participation benefits, and current applications.
 - Node Setup and CESS Accounts: Learn about becoming a node, and setting up CESS accounts.
