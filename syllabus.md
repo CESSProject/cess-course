@@ -19,10 +19,11 @@
 
 - CESS Network Platform Architecture
 - Key Technologies
-  - Proof of Data Reduplication and Recovery
-  - Multi-format Data Rights Confirmation
-  - Random Rotational Selection Consensus Mechanism
-  - Proxy Re-encryption
+  - Proof of Data Reduplication and Recovery (PoDR$^2$)
+  - Proof of Idle Space (PoIS)
+  - Multi-format Data Rights Confirmation (MDRC)
+  - Random Rotational Selection (R$^2$S) Consensus Mechanism
+  - Proxy Re-encryption Technology (PReT)
   - CESS AI-LINK
   - Smart Space Management
 - Client Interaction Model
@@ -43,8 +44,8 @@
 - CESS Nodes and The Why?
   - Consensus Node
   - Storage Node
-  - Retrieval Node
-  - Cache Node
+  - CD$^2$N Node
+  - TEE Node
 - Tokenomics
 - Demo: CESS Account Setup
 
