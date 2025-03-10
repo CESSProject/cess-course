@@ -18,7 +18,7 @@
 
 ### Episode 3- Blockchain Architecture & Key Technologies
 
-{% embed url="https://youtu.be/dVJY2mJxwpQ" %}
+{% embed url="https://youtu.be/ZF534vv6kdg" %}
 
 ## Action Items
 
