@@ -1,7 +1,7 @@
 
-# 🚀 New CESS Course Begins April 1st! 📢
+# 🚀 New CESS Course Begins March 27th! 📢
 
-> 📅 **Mark your calendars!** Our **CESS Network Course** kicks off on **April 1st, 2025**.  
+> 📅 **Mark your calendars!** Our **CESS Network Course** kicks off on **March 27th, 2025**.  
 > Get ready for an in-depth journey into **decentralized data infrastructure** and how CESS is transforming data storage and management in Web3.  
 
 # 👋 Welcome CESS Network Course
