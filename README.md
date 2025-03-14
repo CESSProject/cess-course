@@ -107,7 +107,7 @@ Team Final Score  = (86.5 + 82  76.5) / 2 = 84.5
 
 💡 Need help?
 
-📖 CESS Docs: <https://docs.cess.cloud/>\
+📖 CESS Docs: <https://doc.cess.network/>\
 💬 Discord Community: <https://discord.gg/ca2cVQqA>\
 💻 GitHub Resources: <https://github.com/CESSProject/>
 
