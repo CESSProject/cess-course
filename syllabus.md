@@ -11,10 +11,6 @@
   - What are Smart Contracts?
   - Ethereum vs Substrate-based Blockchains
   - Introduction to Decentralized Applications (dApps)
-- Decentralized Storage & Data Ownership
-  - Problems with centralized storage (Google Drive, AWS)
-  - Overview of Decentralized Storage Solutions (IPFS, Filecoin, Arweave, CESS)
-  - How decentralized storage ensures data privacy, security, and ownership
 
 ## Episode 2- CESS Network Introduction
 
