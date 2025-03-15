@@ -1,46 +1,31 @@
-# Episode 2: CESS Network Introduction
+# Episode 2: Blockchain Architecture & Key Technologies
 
-- [Episode 2- CESS Network Introduction.pdf](./ep2.pdf)
+- [Episode 2- Blockchain Architecture & Key Technologies.pdf](./ep2.pdf)
 
 ## Topics
 
-- Course Logistics
-- What is CESS?
-- Why Choose CESS?
-- Decentralized Industry Challenges and Solutions
-  - Storage Industry Challenges & Solutions
-  - Content Delivery Network Challenges & Solutions
-  - AI Training Challenges
-- CESS Use Case
-- History and Roadmap
-- Try Out CESS
-- Learn, Explore, Contribute
-- Getting in Touch
+- CESS Network Platform Architecture
+- Key Technologies
+  - Proof of Data Reduplication and Recovery
+  - Multi-format Data Rights Confirmation
+  - Random Rotational Selection Consensus Mechanism
+  - Proxy Re-encryption
+  - CESS AI-LINK
+  - Smart Space Management
+- Client Interaction Model
 
 ## Course Videos
 
-### Episode 2- CESS Network Introduction
+### Episode 2- Blockchain Architecture & Key Technologies
 
-{% embed url="https://youtu.be/Rr7HxYubv7U" %}
+{% embed url="https://youtu.be/ZF534vv6kdg" %}
 
 ## Action Items
 
-- Join [Discord Channel](https://discord.gg/cess).
+- Join [Discord Channel](https://discord.gg/ca2cVQqA).
 - Join [Telegram](https://t.me/CESS_Storage_official)
-
-- Try out
-  - [DeOSS](https://cess.network/deoss.html)
-  - [DeCloud](https://decloud.cess.cloud/)
-  - [VideOwn](https://videown.io)
-  - [DeShare](https://cess.network/deshare.html)
-  - [CESS Scan](https://scan.cess.network/).
 
 ## Further Study
 
 - Read through the CESS Doc
-  - [What is CESS](https://doc.cess.network/readme/what-is-cess)
-  - [Technical Highlight](https://doc.cess.network/readme/technical-highlight)
-  - [Use Cases](https://doc.cess.network/readme/use-cases)
   - [CESS Whitepaper](https://github.com/CESSProject/Whitepaper)
-- Check out [CESS Events](https://cess.network/posts/events).
-- Check out [Ambassador Program](https://cess.network/ambassador.html)

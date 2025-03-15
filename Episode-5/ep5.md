@@ -1,35 +1,32 @@
-# Episode 5: CESS Nodes & CESS Account Setup
+# Episode 5- Demo: Running a Consensus Node
 
-- [Episode 5- CESS Nodes & CESS Account Setup.pdf](./ep5.pdf)
+- [Episode 5- Running CESS Nodes.pdf](./ep5.pdf)
 
 ## Topics
 
-- CESS Nodes and The Why?
-  - Consensus Node
-  - Storage Node
-  - Retrieval Node
-  - Cache Node
-- Tokenomics
-- Demo: CESS Account Setup
+- System Requirements
+- Prerequisites
+- Consensus Node Operational Capacity
+- Binding Funds
+- Consensus Node Installation, Setup and Common Operations
 
-## Course Videos
+## Demo: Running a Consensus Node
 
-### Part 1- CESS Nodes
+### Part 1- Consensus Node System Requirements & Prerequisites
 
-{% embed url="https://youtu.be/BwAON5TthtE" %}
+{% embed url="https://youtu.be/gMv7o3OUJNQ" %}
 
-### Part 2- CESS Account Setup
+### Part 2- Demo: Running a Consensus Node
 
-{% embed url="https://youtu.be/23vXIO-q8PE" %}
+{% embed url="https://youtu.be/y1zhhjrtApc" %}
 
 ## Action Items
 
-- Join [Discord Channel](https://discord.gg/cess).
+- Join [Discord Channel](https://discord.gg/ca2cVQqA).
 - Join [Telegram](https://t.me/CESS_Storage_official)
 
 ## Further Study
 
 - Read through the CESS Doc
-  - [CESS Whitepaper](https://github.com/CESSProject/Whitepaper)
-  - [CESS Miners](https://doc.cess.network/cess-miners)
-  - [CESS Account Setup](https://doc.cess.network/user/cess-account)
+  - [CESS Consensus Miner](https://doc.cess.network/cess-miners/consensus-miner)
+  - [CESS Storage Miner](https://doc.cess.network/cess-miners/storage-miner)

@@ -1,32 +1,35 @@
-# Episode 4: CESS Ecosystem, and Applications
+# Episode 4: CESS Nodes & CESS Account Setup
 
-- [Episode 4- CESS Ecosystem, and Applications.pdf](./ep4.pdf)
+- [Episode 4- CESS Nodes & CESS Account Setup.pdf](./ep4.pdf)
 
 ## Topics
 
-- CESS Ecosystem & Roles
-- Ways to Participate in CESS Ecosystem
-- CESS Events
-- CESS Applications
-  - User: TellyWelly
-  - User: DeShare
-  - User: DeCloud
-  - User: Videown
+- CESS Nodes and The Why?
+  - Consensus Node
+  - Storage Node
+  - Retrieval Node
+  - Cache Node
+- Tokenomics
+- Demo: CESS Account Setup
 
 ## Course Videos
 
-### Episode 4- CESS Ecosystem, and Applications
+### Part 1- CESS Nodes
 
-{% embed url="https://youtu.be/syY3BaCX3E8" %}
+{% embed url="https://youtu.be/BwAON5TthtE" %}
+
+### Part 2- CESS Account Setup
+
+{% embed url="https://youtu.be/23vXIO-q8PE" %}
 
 ## Action Items
 
-- Join [Discord Channel](https://discord.gg/cess).
+- Join [Discord Channel](https://discord.gg/ca2cVQqA).
 - Join [Telegram](https://t.me/CESS_Storage_official)
 
 ## Further Study
 
 - Read through the CESS Doc
   - [CESS Whitepaper](https://github.com/CESSProject/Whitepaper)
-- Check out [CESS Events](https://cess.network/posts/events).
-- Check out [Ambassador Program](https://cess.network/ambassador.html)
+  - [CESS Miners](https://doc.cess.network/cess-miners)
+  - [CESS Account Setup](https://doc.cess.network/user/cess-account)
