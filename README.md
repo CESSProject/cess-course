@@ -87,7 +87,7 @@ To determine the team’s final ranking, we use the simple average of all indivi
 |  Alice  |          90%         |          85%        |      86%    |
 |   Bob   |          75%         |          85%        |      83%    |
 
-Team Final Score  = (86.5 + 82  76.5) / 2 = 84.5
+Team Final Score  = (86 + 83) / 2 = 84.5
 
 #### Evaluation Criteria for Projects (80%)
 
