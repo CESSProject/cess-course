@@ -1,6 +1,6 @@
 # Episode 6- Demo: Running a Storage Node
 
-- [Episode 6- Demo: Running a Storage Node.pdf](./ep6.pdf)
+- Slides [Episode 6- Demo: Running a Storage Node](https://docs.google.com/presentation/d/1W68HvBXD_7kHmlb3ntkgnz_m8-bszUyDp7jMfhn_VBA/edit?usp=sharing)
 
 ## Topics
 

@@ -1,6 +1,6 @@
 # Episode 7- CESS DeOSS and DeOSS REST API
 
-- [Episode 7- CESS DeOSS and DeOSS REST API.pdf](./ep7.pdf)
+- Slides: [Episode 7- CESS DeOSS and DeOSS REST API](https://docs.google.com/presentation/d/19x9v5mARqkAHnQjjRcVmG7ECMJLaUp1OSECEB3shGRg/edit?usp=sharing)
 
 ## Topics
 

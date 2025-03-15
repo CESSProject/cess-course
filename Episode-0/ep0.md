@@ -1,7 +1,6 @@
 # Episode 0: CBlockchain & Web3 Fundamentals
 
-<!-- TODO: Add Episode 1 Slides ep1.pdf -->
-<!-- - [Episode 0- Blockchain & Web3 Fundamentals.pdf](./ep1.pdf) -->
+- Slides: [Episode 0- Blockchain & Web3 Fundamentals](https://docs.google.com/presentation/d/1DFOWoMHfWltilce_jd7M-Xbz6aFEmRW5mR-CVx6KCcE/edit?usp=sharing)
 
 ## Topics
 

@@ -1,6 +1,6 @@
 # Episode 9- dApp Development using Solidity Smart Contract
 
-- [Episode 9- dApp Development using Solidity Smart Contract.pdf](./ep9.pdf)
+- Slides: [Episode 9- dApp Development using Solidity Smart Contract]([./ep9.pdf](https://docs.google.com/presentation/d/10FalqeiLwL9xx6I2thq4_45Me3MB3Xs3Q28P-5PL2eU/edit?usp=sharing))
 
 ## Topics
 

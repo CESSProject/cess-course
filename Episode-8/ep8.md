@@ -1,6 +1,6 @@
 # Episode 8- dApp Development using Ink! Smart Contract
 
-- [Episode 8- dApp Development using Ink! Smart Contract.pdf](./ep8.pdf)
+- Slides: [Episode 8- dApp Development using Ink! Smart Contract.pdf](https://docs.google.com/presentation/d/13ZoLZYeqMkCk6uGH4ZdnTDs_R3u_dI_wDAETTcE2_wQ/edit?usp=sharing)
 
 ## Topics
 

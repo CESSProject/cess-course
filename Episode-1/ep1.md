@@ -1,7 +1,7 @@
 # Episode 1: CESS Network Introduction
 
 <!-- TODO: Add Google Drive Link Instead -->
-- [Episode 1- CESS Network Introduction.pdf](./ep1.pdf)
+- Slides: [Episode 1- CESS Network Introduction.pdf](https://docs.google.com/presentation/d/1E5cEA4O43JVZW_c8rqf1D4IRtZ9XlOwKmiAG_47QL_E/edit?usp=sharing)
 
 ## Topics
 

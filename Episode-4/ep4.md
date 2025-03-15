@@ -1,6 +1,6 @@
 # Episode 4: CESS Nodes & CESS Account Setup
 
-- [Episode 4- CESS Nodes & CESS Account Setup.pdf](./ep4.pdf)
+- Slides: [Episode 4- CESS Nodes & CESS Account Setup](https://docs.google.com/presentation/d/1ADzystf2FI2fvm6iU2CMj0HtKDs81SK8KeC04wtjCyc/edit?usp=sharing)
 
 ## Topics
 

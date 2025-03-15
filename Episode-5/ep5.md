@@ -1,6 +1,6 @@
 # Episode 5- Demo: Running a Consensus Node
 
-- [Episode 5- Running CESS Nodes.pdf](./ep5.pdf)
+- Slides: [Episode 5- Running a Consensus Node](https://docs.google.com/presentation/d/1XVUdcRDHdQxFn2FhEzyGMnJQEyH5M5RVrokTfuiwDsI/edit?usp=sharing)
 
 ## Topics
 

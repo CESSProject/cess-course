@@ -1,6 +1,6 @@
 # Episode 3: CESS Ecosystem, and Applications
 
-- [Episode 3- CESS Ecosystem, and Applications.pdf](./ep3.pdf)
+- Slides: [Episode 3- CESS Ecosystem, and Applications](https://docs.google.com/presentation/d/1PeKZj2v5nMpfbCAxH04T0V21IHwj3nvfZ3FtLKudvM8/edit?usp=sharing)
 
 ## Topics
 

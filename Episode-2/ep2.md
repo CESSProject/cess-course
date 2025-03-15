@@ -1,6 +1,6 @@
 # Episode 2: Blockchain Architecture & Key Technologies
 
-- [Episode 2- Blockchain Architecture & Key Technologies.pdf](./ep2.pdf)
+- Slides: [Episode 2- Blockchain Architecture & Key Technologies](https://docs.google.com/presentation/d/1Y2l-X08u0uZbQprBe9cwAGTxTUE2kVlZFC4kT2mfIh4/edit?usp=sharing)
 
 ## Topics
 
