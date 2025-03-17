@@ -17,7 +17,7 @@
 
 ### Episode 3- CESS Ecosystem, and Applications
 
-{% embed url="https://youtu.be/syY3BaCX3E8" %}
+{% embed url="https://youtu.be/3Jg0km_eMe4" %}
 
 ## Action Items
 

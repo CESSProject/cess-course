@@ -16,7 +16,7 @@
 
 ### Part 1- CESS Nodes
 
-{% embed url="https://youtu.be/BwAON5TthtE" %}
+{% embed url="https://youtu.be/YRvSDo1avQk" %}
 
 ### Part 2- CESS Account Setup
 
