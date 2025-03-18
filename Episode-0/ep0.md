@@ -14,16 +14,15 @@
   - Ethereum vs Substrate-based Blockchains
   - Introduction to Decentralized Applications (dApps)
 
-<!-- TODO: Add Episode 0 Videos -->
-<!-- ## Course Videos -->
+## Course Videos
 
-<!-- ### Episode 0- Blockchain & Web3 Fundamentals -->
+### Episode 0- Blockchain & Web3 Fundamentals
 
-<!-- {% embed url="https://youtu.be/Rr7HxYubv7U" %} -->
+{% embed url="https://youtu.be/jkgl9tj3niI" %}
 
-<!-- ## Action Items -->
+## Action Items
 
-<!-- - Join [Discord Channel](https://discord.gg/ca2cVQqA).
+- Join [Discord Channel](https://discord.gg/ca2cVQqA).
 - Join [Telegram](https://t.me/CESS_Storage_official)
 
 - Try out
@@ -33,12 +32,12 @@
   - [DeShare](https://cess.network/deshare.html)
   - [CESS Scan](https://scan.cess.network/). -->
 
-<!-- ## Further Study -->
+## Further Study
 
-<!-- - Read through the CESS Doc
+- Read through the CESS Doc
   - [What is CESS](https://doc.cess.network/readme/what-is-cess)
   - [Technical Highlight](https://doc.cess.network/readme/technical-highlight)
   - [Use Cases](https://doc.cess.network/readme/use-cases)
   - [CESS Whitepaper](https://github.com/CESSProject/Whitepaper)
 - Check out [CESS Events](https://cess.network/posts/events).
-- Check out [Ambassador Program](https://cess.network/ambassador.html) -->
+- Check out [Ambassador Program](https://cess.network/ambassador.html)
