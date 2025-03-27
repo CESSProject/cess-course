@@ -20,7 +20,7 @@
 
 ## Action Items
 
-- Join [Discord Channel](https://discord.gg/cess).
+- Join [Discord Channel](https://discord.gg/8dnTGdWQ)
 - Join [Telegram](https://t.me/CESS_Storage_official)
 
 ## Further Study

@@ -21,12 +21,12 @@
 
 ## Action Items
 
-- Join [Discord Channel](https://discord.gg/ca2cVQqA).
+- Join [Discord Channel](https://discord.gg/8dnTGdWQ)
 - Join [Telegram](https://t.me/CESS_Storage_official)
 
 ## Further Study
 
 - Read through the CESS Doc
   - [CESS Whitepaper](https://github.com/CESSProject/Whitepaper)
-- Check out [CESS Events](https://cess.network/posts/events).
+- Check out [CESS Events](https://cess.network/posts/events)
 - Check out [Ambassador Program](https://cess.network/ambassador.html)
