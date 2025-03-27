@@ -1,7 +1,7 @@
 ---
 description: In cooperation with University of Brasilia (UnB)
 cover: .gitbook/assets/UnB.jpeg
-coverY: 22.692172739541164
+coverY: 11.260593792172742
 layout:
   cover:
     visible: true
