@@ -34,7 +34,7 @@
   - [DeCloud](https://decloud.cess.cloud/)
   - [VideOwn](https://videown.io)
   - [DeShare](https://cess.network/deshare.html)
-  - [CESS Scan](https://scan.cess.network/).
+  - [CESS Scan](https://scan.cess.network/)
 
 ## Further Study
 
@@ -43,5 +43,5 @@
   - [Technical Highlight](https://doc.cess.network/readme/technical-highlight)
   - [Use Cases](https://doc.cess.network/readme/use-cases)
   - [CESS Whitepaper](https://github.com/CESSProject/Whitepaper)
-- Check out [CESS Events](https://cess.network/posts/events).
+- Check out [CESS Events](https://cess.network/posts/events)
 - Check out [Ambassador Program](https://cess.network/ambassador.html)
