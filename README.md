@@ -1,7 +1,21 @@
 ---
 description: In cooperation with University of Brasilia (UnB)
 cover: .gitbook/assets/UnB.jpeg
-coverY: -11.602564102564102
+coverY: 22.692172739541164
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 👋 Welcome to CESS Course
