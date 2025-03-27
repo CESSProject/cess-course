@@ -1,5 +1,7 @@
 ---
 description: In cooperation with University of Brasilia (UnB)
+cover: .gitbook/assets/UnB.jpeg
+coverY: 0
 ---
 
 # 👋 Welcome to CESS Course
