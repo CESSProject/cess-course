@@ -9,3 +9,5 @@
   * [Episode 1- Exercise](Episode-1/exercise.md)
 * [Episode 2- Blockchain Architecture & Key Technologies](Episode-2/ep2.md)
   * [Episode 2- Exercise](Episode-2/exercise.md)
+* [Episode 3- CESS Ecosystem, and Applications](Episode-3/ep3.md)
+  * [Episode 3- Exercise](Episode-3/exercise.md)
