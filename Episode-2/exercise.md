@@ -2,6 +2,8 @@
 
 Exercise Submission Deadline: **10th April 00:00 UTC (-03:00)**
 
+> Deadline Extended till: **13th April 00:00 UTC (-03:00)**
+
 [👉 Go to Episode-2 Exercise 👈](https://forms.gle/8ZZKCXsRnNvGPjjw5)
 
 ### Note on assignment submission
