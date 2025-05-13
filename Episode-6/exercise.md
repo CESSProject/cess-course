@@ -1,8 +1,8 @@
-# CESS Course Episode-5 Exercise
+# CESS Course Episode-6 Exercise
 
-Exercise Submission Deadline: **13th April 00:00 UTC (-03:00)**
+Exercise Submission Deadline: **28th April 00:00 UTC (-03:00)**
 
-[👉 Go to Episode-5 Exercise 👈](https://forms.gle/gPpNnuhmJtDRBTBk6)
+[👉 Go to Episode-6 Exercise 👈](https://forms.gle/591JD33hbp66M7eM8)
 
 ### Note on assignment submission
 
