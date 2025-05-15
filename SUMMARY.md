@@ -17,3 +17,5 @@
   * [Episode 5- Exercise](Episode-5/exercise.md)
 * [Episode 6- Demo: Running a Storage Node](Episode-6/ep6.md)
   * [Episode 6- Exercise](Episode-6/exercise.md)
+* [Episode 7- CESS DeOSS and DeOSS REST API](Episode-7/ep7.md)
+  * [Episode 7- Exercise](Episode-7/exercise.md)
