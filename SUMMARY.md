@@ -19,3 +19,5 @@
   * [Episode 6- Exercise](Episode-6/exercise.md)
 * [Episode 7- CESS DeOSS and DeOSS REST API](Episode-7/ep7.md)
   * [Episode 7- Exercise](Episode-7/exercise.md)
+* [Episode 8- dApp Development using Ink! Smart Contract](Episode-8/ep8.md)
+  * [Episode 8- Exercise](Episode-8/exercise.md)
