@@ -21,3 +21,5 @@
   * [Episode 7- Exercise](Episode-7/exercise.md)
 * [Episode 8- dApp Development using Ink! Smart Contract](Episode-8/ep8.md)
   * [Episode 8- Exercise](Episode-8/exercise.md)
+* [Episode 9- dApp Development using Solidity Smart Contract](Episode-9/ep9.md)
+  * [Episode 9- Exercise](Episode-8/exercise.md)
