@@ -1,6 +1,6 @@
 # Episode 9- dApp Development using Solidity Smart Contract
 
-- Slides: [Episode 9- dApp Development using Solidity Smart Contract]([./ep9.pdf](https://docs.google.com/presentation/d/10FalqeiLwL9xx6I2thq4_45Me3MB3Xs3Q28P-5PL2eU/edit?usp=sharing))
+- Slides: [Episode 9- dApp Development using Solidity Smart Contract](https://docs.google.com/presentation/d/10FalqeiLwL9xx6I2thq4_45Me3MB3Xs3Q28P-5PL2eU/edit?usp=sharing)
 
 ## Topics
 
@@ -14,15 +14,15 @@
 
 ### Part 1- Introduction to Solidity Smart Contract
 
-{% embed url="https://youtu.be/nnUlD8IKbxI" %}
+{% embed url="<https://youtu.be/nnUlD8IKbxI>" %}
 
 ### Part 2- Transferring Funds Between Substrate and EVM
 
-{% embed url="https://youtu.be/zAit6PnI2E0" %}
+{% embed url="<https://youtu.be/zAit6PnI2E0>" %}
 
 ### Part 3- Demo: Deploy Solidity Contract
 
-{% embed url="https://youtu.be/NJEHRzB97k4" %}
+{% embed url="<https://youtu.be/NJEHRzB97k4>" %}
 
 ## Action Items
 
