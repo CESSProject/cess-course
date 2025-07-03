@@ -14,15 +14,15 @@
 
 ### Part 1- Introduction to Solidity Smart Contract
 
-{% embed url="<https://youtu.be/nnUlD8IKbxI>" %}
+{% embed url="https://youtu.be/nnUlD8IKbxI" %}
 
 ### Part 2- Transferring Funds Between Substrate and EVM
 
-{% embed url="<https://youtu.be/zAit6PnI2E0>" %}
+{% embed url="https://youtu.be/zAit6PnI2E0" %}
 
 ### Part 3- Demo: Deploy Solidity Contract
 
-{% embed url="<https://youtu.be/NJEHRzB97k4>" %}
+{% embed url="https://youtu.be/NJEHRzB97k4" %}
 
 ## Action Items
 
