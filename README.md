@@ -18,11 +18,11 @@ layout:
     visible: true
 ---
 
-# 👋 Welcome to CESS Course
+# 👋 Welcome to CESS Course - Season II
 
-## 🚀 New CESS Course Begins March 24th! 📢
+## 🚀 CESS Course - Season II Begins on 18th August! 📢
 
-> 📅 **Mark your calendars!** Our **CESS Network Course** kicks off on **March 24th, 2025**.\
+> 📅 **Mark your calendars!** Our **CESS Network Course** kicks off on **August 18th, 2025**.\
 > Get ready for an in-depth journey into **decentralized data infrastructure** and how CESS is transforming data storage and management in Web3.
 
 We are thrilled to announce the **1st CESS Network Cohort** in cooperation with **University of Brasilia (UnB)**, an immersive learning experience designed to equip participants with cutting-edge decentralized data infrastructure knowledge and hands-on development skills. This cohort includes both learning & building opportunities with exciting rewards!
@@ -33,11 +33,13 @@ Throughout this course, you'll explore key aspects of CESS, including its archit
 
 ## 🏆 Prize Pool & Course Rewards
 
-🎯 **Total Prize Pool: $3,000 worth of CESS Tokens**
+> ⚠️ To Be Announced
+
+<!-- 🎯 **Total Prize Pool: $3,000 worth of CESS Tokens**
 
 🥇 1st Place: $1,500 worth of CESS tokens\
 🥈 2nd Place: $1,000 worth of CESS tokens\
-🥉 3rd Place: $500 worth of CESS tokens
+🥉 3rd Place: $500 worth of CESS tokens -->
 
 📢 **Additional Reward**
 
@@ -47,10 +49,10 @@ This cohort is completely free and open to students looking to gain practical bl
 
 ## 📅 Key Dates
 
-📅 Course Start Date: March 24th, 2025\
+📅 Course Start Date: August 18th, 2025\
 📌 Exercises after each Module\
-📌 Project Submission and Oral Presentation Deadline: July 22nd, and July 25th 2025\
-📌 Winner Announcement: July 28th, 2025
+📌 Project Submission and Oral Presentation Deadline: December 9th 2025\
+📌 Winner Announcement: December 19th, 2025
 
 ## What You’ll Learn
 
@@ -67,6 +69,33 @@ This cohort is completely free and open to students looking to gain practical bl
 This course equips you with the knowledge and tools to engage with the CESS Network, whether you're a developer looking to integrate CESS services or a user exploring the benefits of decentralized data storage. You'll also have access to developer bounties, grants, and opportunities for project incubation.
 
 Join us to unlock the potential of decentralized data management with CESS!
+
+## 🏆 Season 1 Prize Winners
+
+We would like to congratulate the outstanding participants of CESS Course - Season I! Their dedication, hard work, and innovative projects have set a high bar for future cohorts. Below are the winners from the inaugural season:
+
+#### 🎖 1st Place: - Melissa Aragão Leite
+
+Project: Document Vault – A system for secure file management and time-limited access control.
+Melissa’s project demonstrated exceptional use of CESS’s decentralized storage and smart contract integration, earning her the top spot!
+
+#### 🎖 2nd Place: Andre Monteiro Toussaint
+
+Project: TruthVault – A decentralized app for academic content verification and authenticity on the blockchain.
+Andre’s solution provided a robust, decentralized approach to ensuring academic integrity.
+
+#### 🎖 3rd Place: Johnatan Amorim Vilas Boas
+
+Project: Decentralized Voting System – A blockchain-based solution for transparent and secure voting processes.
+Johnatan’s project exemplified CESS's commitment to building decentralized systems that can impact real-world governance.
+
+#### 🎓 Season 1 Completion NFTs
+
+We are proud to have issued NFTs to all participants who successfully completed the Season 1 course. These NFTs serve as a digital credential, recognizing the participants' dedication and achievements throughout the course.
+
+The NFTs were minted on the Polygon network and can be viewed on Singular, a leading NFT marketplace. Each NFT is a unique digital asset representing the completion of the course.
+
+🔗 [View the NFT Collection on Singular](http://singular.app/collectibles/polygon/0x03a114c57a01494d58783cb7fee52807879c4760?isVerified=false&showPending=true&hideRelated=false&network=polygon&sortBy=_eval(price:%20%3E%200):desc,%20price_usd:asc,%20price:asc&page=1)
 
 ## Cohort Participation & Rewards
 
