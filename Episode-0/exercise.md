@@ -1,8 +1,8 @@
 # CESS Course Episode-0 Exercise
 
-Exercise Submission Deadline: **31st March 00:00 UTC (-03:00)**
+Exercise Submission Deadline: **1st September 00:00 UTC (-03:00)**
 
-[👉 Go to Episode-0 Exercise 👈](https://forms.gle/EyHL28Jn2yHGuLfM6)
+[👉 Go to Episode-0 Exercise 👈](https://forms.gle/Lde2dCPNvZaC53mu8)
 
 ### Note on assignment submission
 
