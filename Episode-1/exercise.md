@@ -1,8 +1,8 @@
 # CESS Course Episode-1 Exercise
-
+<!-- 
 Exercise Submission Deadline: **8th September 00:00 UTC (-03:00)**
 
-[👉 Go to Episode-1 Exercise 👈](https://forms.gle/bct6TRXjBKgGni7n7)
+[👉 Go to Episode-1 Exercise 👈](https://forms.gle/bct6TRXjBKgGni7n7) -->
 
 ### Note on assignment submission
 
