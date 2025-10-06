@@ -13,8 +13,8 @@
   * [Episode 3- Exercise](Episode-3/exercise.md)
 * [Episode 4- CESS Nodes & CESS Account Setup](Episode-4/ep4.md)
   * [Episode 4- Exercise](Episode-4/exercise.md)
-<!-- * [Episode 5- Demo: Running a Consensus Node](Episode-5/ep5.md)
-  * [Episode 5- Exercise](Episode-5/exercise.md) -->
+* [Episode 5- Demo: Running a Consensus Node](Episode-5/ep5.md)
+  * [Episode 5- Exercise](Episode-5/exercise.md)
 <!-- * [Episode 6- Demo: Running a Storage Node](Episode-6/ep6.md)
   * [Episode 6- Exercise](Episode-6/exercise.md) -->
 <!-- * [Episode 7- CESS DeOSS and DeOSS REST API](Episode-7/ep7.md)
