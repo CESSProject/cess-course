@@ -1,6 +1,6 @@
 # CESS Course Episode-6 Exercise
 
-Exercise Submission Deadline: **9th OCT 00:00 UTC (-03:00)**
+Exercise Submission Deadline: **28th OCT 00:00 UTC (-03:00)**
 
 [👉 Go to Episode-6 Exercise 👈](https://forms.gle/QLpUP3uYytwTzm3w5)
 
