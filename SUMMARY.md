@@ -23,5 +23,5 @@
   * [Episode 8- Exercise](Episode-8/exercise.md)
 * [Episode 9- dApp Development using Solidity Smart Contract](Episode-9/ep9.md)
   * [Episode 9- Exercise](Episode-9/exercise.md)
-<!-- * [Episode 10- Building Custom Pallet](Episode-10/ep10.md)
-  * [Episode 10- Exercise](Episode-10/exercise.md) -->
+* [Episode 10- Building Custom Pallet](Episode-10/ep10.md)
+  * [Episode 10- Exercise](Episode-10/exercise.md)
