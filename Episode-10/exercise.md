@@ -2,7 +2,7 @@
 
 Exercise Submission Deadline: **5th Dec 00:00 UTC (-03:00)**
 
-[👉 Go to Episode-9 Exercise 👈](https://forms.gle/XtjBPgeRNSEzKZXb8)
+[👉 Go to Episode-10 Exercise 👈](https://forms.gle/XtjBPgeRNSEzKZXb8)
 
 ### Note on assignment submission
 
