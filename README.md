@@ -35,7 +35,7 @@ Throughout this course, you'll explore key aspects of CESS, including its archit
 
 <!-- > ⚠️ To Be Announced -->
 
-🎯 **Total Prize Pool: $3,000 worth of CESS Tokens**
+🎯 **Total Prize Pool: $1,500 worth of CESS Tokens**
 
 🥇 1st Place: $600 worth of CESS tokens\
 🥈 2nd Place: $500 worth of CESS tokens\
