@@ -51,8 +51,8 @@ This cohort is completely free and open to students looking to gain practical bl
 
 📅 Course Start Date: August 18th, 2025\
 📌 Exercises after each Module\
-📌 Project Submission and Oral Presentation Deadline: December 9th 2025\
-📌 Winner Announcement: December 19th, 2025
+📌 Project Submission and Oral Presentation Deadline: December 12th 2025\
+📌 Winner Announcement: December 15th, 2025
 
 ## 📖 What You’ll Learn
 
